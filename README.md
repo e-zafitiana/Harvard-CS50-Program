@@ -1,4 +1,4 @@
-# 🎓 CS50-Series-Program
+# 🎓 CS50-Series-Program-I
 
 This repository contains **problem sets and projects** from various **CS50 courses**, covering **programming, artificial intelligence, databases**, and more.
 
