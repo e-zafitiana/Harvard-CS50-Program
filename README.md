@@ -16,6 +16,18 @@ A deep dive into **C, Python, SQL, and web programming**, covering **algorithms,
 ```bash
 git clone https://github.com/e-zafitiana/CS50X.git
 ```
+🐍 CS50P – Introduction to Programming with Python
+
+A beginner-friendly introduction to programming with Python, focusing on problem-solving, loops, functions, and testing.
+
 ```bash
-git clone https://github.com/e-zafitiana/CS50X.git
+git clone https://github.com/e-zafitiana/CS50P.git
+```
+
+### 🧠 CS50AI – Introduction to Artificial Intelligence with Python
+
+Explores fundamental AI concepts like search algorithms, machine learning, neural networks, and optimization.
+
+```bash
+git clone https://github.com/e-zafitiana/CS50AI.git
 ```
