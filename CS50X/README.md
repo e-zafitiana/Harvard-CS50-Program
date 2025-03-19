@@ -58,4 +58,4 @@ Do not copy and paste any of these files. Try to solve the problems yourself!
 
 ## Certificate
 
-[![Certificate](CS50X.png)](https://courses.edx.org/certificates/aa467987ee134507a9d099a2e7c464e9)
+[![Certificate](CS50X.png)](https://certificates.cs50.io/86e17041-626d-4e84-a46f-1db1ff1d2968.pdf?size=A4)
