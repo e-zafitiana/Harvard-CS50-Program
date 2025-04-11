@@ -41,7 +41,7 @@ Covers relational databases, SQL queries, database design, and performance optim
 git clone https://github.com/e-zafitiana/CS50SQL.git
 ```
 
-📊 CS50R – Introduction to Programming with R
+### 📊 CS50R – Introduction to Programming with R
 
 Focuses on data science, statistical analysis, and visualization using R.
 
