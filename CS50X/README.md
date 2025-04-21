@@ -58,4 +58,4 @@ Do not copy and paste any of these files. Try to solve the problems yourself!
 
 ## Certificate
 
-[![Certificate](CS50X.png)](https://certificates.cs50.io/86e17041-626d-4e84-a46f-1db1ff1d2968.pdf?size=A4)
+[View Certificate](https://cs50.harvard.edu/certificates/86e17041-626d-4e84-a46f-1db1ff1d2968))
