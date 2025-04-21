@@ -43,4 +43,4 @@ Do not copy and paste any of these files. Try to solve the problems yourself!
 
 ## Certificate
 
-[View Certificate](certificates.cs50)
+[View Certificate](https://cs50.harvard.edu/certificates/3349328a-0c99-48c2-a59f-574111b50e76)
