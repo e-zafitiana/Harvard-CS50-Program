@@ -69,4 +69,4 @@ Do not copy and paste any of these files. Try to solve the problems yourself!
 
 ## Certificate
 
-[View Certificate]([)](https://cs50.harvard.edu/certificates/29757ca2-b48b-4d98-ade8-3395a3564f4e)
+[View Certificate](https://cs50.harvard.edu/certificates/29757ca2-b48b-4d98-ade8-3395a3564f4e)
