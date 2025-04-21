@@ -1,4 +1,4 @@
-# 🎓 Harvard-CS50-Program
+# 🎓 Harvard-Online-CS50-Program
 
 This repository contains **problem sets and projects** from various **CS50 courses**, covering **programming, artificial intelligence, databases**, and more.
 
