@@ -37,4 +37,4 @@ Do not copy and paste any of these files. Try to solve the problems yourself!
 
 ## Certificate
 
-[![Certificate](CS50R.png)](https://certificates.cs50.io/53baf13d-1f3c-4279-ac8c-0bd2a0042c39.pdf?size=A4)
+[View Certificate](https://cs50.harvard.edu/certificates/53baf13d-1f3c-4279-ac8c-0bd2a0042c39)
